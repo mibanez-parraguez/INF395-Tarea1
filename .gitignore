@@ -1,0 +1,9 @@
+# Temp files
+*.kate-swp
+*.log
+*.un~
+*~
+
+*.zip
+.ipynb_checkpoints/
+Test.ipynb
